@@ -29,4 +29,6 @@ At program startup, both arrays are initialized so that all seats are empty and 
 - Data is stored only in memory, so reservations are lost when the program ends
 
 # Screenshots
+<img width="1968" height="1993" alt="image" src="https://github.com/user-attachments/assets/efc7452c-11f5-4269-bfe4-ca6e102f941a" />
+<img width="1968" height="1993" alt="image" src="https://github.com/user-attachments/assets/43830436-8030-4ef0-8e46-2a8c163206fb" />
 
