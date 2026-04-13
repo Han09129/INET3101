@@ -1,3 +1,4 @@
+
 # Problem Statement
 The Colossus Airlines fleet consists of one plane with 48 seats and operates two flights daily: an outbound flight and an inbound flight. The reservation system must allow the user to manage seating for both flights. Each seat stores a seat number, whether it is assigned, the passenger’s last name, and the passenger’s first name.
 
@@ -46,5 +47,10 @@ The alphabetical list is created by copying assigned seats into a temporary arra
 - If the data file becomes corrupted, reservations may not load correctly
 - Passenger names cannot contain spaces because `%s` is used for input
 
-Screenshots
+## Screenshots
+<img width="3088" height="1746" alt="Screenshot from 2026-04-12 22-52-21" src="https://github.com/user-attachments/assets/b39e0f28-3a8e-4475-90c1-ad3f7972ea77" />
+<img width="3088" height="1822" alt="Screenshot from 2026-04-12 22-52-42" src="https://github.com/user-attachments/assets/0a65e6e4-6e89-45fc-9706-a5797d2685cb" />
+
+
+
 
