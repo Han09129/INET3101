@@ -51,6 +51,8 @@ Terminal 2:
 ```bash
 ./client sample.txt
 ```
+### Screenshots
+<img width="2199" height="356" alt="Screenshot from 2026-04-19 18-46-57" src="https://github.com/user-attachments/assets/4f0340e2-3a46-41d9-8c60-830810107746" />
 
 ## Pros and Cons of the Solution
 ### Pros
