@@ -67,6 +67,7 @@ chmod +x build_on_wsl.sh
 
 ## 4. Expected Output
 
+
 ### `ls`
 
 Displays files in long format by default:
@@ -90,3 +91,4 @@ You are: username
 * `README.md` – This file
 
 ## 6. Screenshot
+<img width="1801" height="650" alt="Screenshot from 2026-04-26 19-49-41" src="https://github.com/user-attachments/assets/48f598e1-4e4f-493a-bc9e-771d23137710" />
