@@ -255,11 +255,9 @@ A 3-5 minute demo video can follow this order:
 
 ## Demo Video Link
 
-demo video link:
+demo video link: In folder
 
-```text
-PASTE YOUR DEMO VIDEO LINK HERE
-```
+
 
 ## Author
 
